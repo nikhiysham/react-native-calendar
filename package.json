@@ -1,5 +1,5 @@
 {
-  "name": "react-native-calendar-view",
+  "name": "react-native-calendar-readonly",
   "version": "0.0.1",
   "description": "Calendar View for ReactNative.",
   "main": "index.js",
